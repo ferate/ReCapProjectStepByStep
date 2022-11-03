@@ -1,41 +1,37 @@
 # AfterDay12_ReCapProject_Homework2
 
-     FluentValidation Desteği Ekleme 
-     Business Katmanına ValidationRules Klasörü oluştur, bunun altına FluentValidation klasörü oluştur daha sonra da bu klasörün içine CarValidator.cs dosyası 
-oluşturup aşağıdaki şekildeki gibi yapılandıralım.
-
+FluentValidation Desteği Ekleme :
 Business Katmanına ValidationRules Klasörü oluştur, bunun altına FluentValidation klasörü oluştur daha sonra da bu klasörün içine CarValidator.cs dosyası oluşturup aşağıdaki şekildeki gibi yapılandıralım.
 
 ![image](https://user-images.githubusercontent.com/32821105/199797235-d4e1e1d8-6cab-4ea0-a8cf-51c6e75ebc42.png)
 
 
-
 Eklediğimiz classa aşağıdaki örnekteki gibi kontroller yazıyoruz :
 
-    ![image](https://user-images.githubusercontent.com/32821105/199796242-6b2c4c10-8bb7-4b22-a06d-de62642d7bc3.png)
+![image](https://user-images.githubusercontent.com/32821105/199797514-e9a9e287-9c6c-4d11-bfd4-d0bbe80d925c.png)
+
 
 Validation’ı çalıştırmak için Manager’a giderek kontrole yönlendirme yapacağımız kodlarımızı şu şekilde yazıyoruz.
 
-     ![image](https://user-images.githubusercontent.com/32821105/199796314-8e919023-3bd9-4343-a08b-9855023a2ca1.png)
+![image](https://user-images.githubusercontent.com/32821105/199797574-df869326-48b8-49c4-92c4-8b88b7eafa3a.png)
+
 
 Bu yapı yani validation işlemi bütün katmanlarda yapılacağı için bunu Core Katmanına taşıyoruz.
 
 Core katmanına bu paketleri yüklüyoruz.
 
-     ![image](https://user-images.githubusercontent.com/32821105/199796417-84041a2a-cf58-464b-ada6-9dfe3dcb9369.png)
+![image](https://user-images.githubusercontent.com/32821105/199797638-2878914b-06fb-4848-9327-cc5b0374c7bb.png)
 
-        Daha sonra Core projesine CrossCuttingConcers klasörünü ve onun altına Validation klasörünü oluşturuyoruz. 
+    Daha sonra Core projesine CrossCuttingConcers klasörünü ve onun altına Validation klasörünü oluşturuyoruz. 
 Bunun altında da ValidationTool.cs dosyamızı oluşturup aşağıdaki gibi yapılandırıyoruz :
 
-     ![image](https://user-images.githubusercontent.com/32821105/199796550-f90c3bf8-bdcb-408e-9dc3-161d454becb6.png)
+![image](https://user-images.githubusercontent.com/32821105/199797692-9f444ce7-a677-4cf0-990a-09da2d00192c.png)
 
-     ![image](https://user-images.githubusercontent.com/32821105/199796599-f9e652e8-2e51-4ad4-a105-f75990032b17.png)
+![image](https://user-images.githubusercontent.com/32821105/199797730-6163fd64-ae88-467c-b0e4-2a0241286747.png)
 
 İlgili Manager’a giderek eski yazdığımız kodu refactor ederek yeniden şu şekilde düzenliyoruz.
 
-     ![image](https://user-images.githubusercontent.com/32821105/199796702-3fe77b05-3f2e-4801-95f8-67774bde3130.png)
-
-
+![image](https://user-images.githubusercontent.com/32821105/199797784-e5e36790-1f9a-4ef6-af59-e394154689d8.png)
 
 
 AfterDay12_ReCapProject_Homework2
