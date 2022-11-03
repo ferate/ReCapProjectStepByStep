@@ -1,11 +1,14 @@
 # AfterDay12_ReCapProject_Homework2
 
-          FluentValidation Desteği Ekleme 
-          Business Katmanına ValidationRules Klasörü oluştur, bunun altına FluentValidation klasörü oluştur daha sonra da bu klasörün içine CarValidator.cs dosyası 
+     FluentValidation Desteği Ekleme 
+     Business Katmanına ValidationRules Klasörü oluştur, bunun altına FluentValidation klasörü oluştur daha sonra da bu klasörün içine CarValidator.cs dosyası 
 oluşturup aşağıdaki şekildeki gibi yapılandıralım.
 
+Business Katmanına ValidationRules Klasörü oluştur, bunun altına FluentValidation klasörü oluştur daha sonra da bu klasörün içine CarValidator.cs dosyası oluşturup aşağıdaki şekildeki gibi yapılandıralım.
 
-    ![image](https://user-images.githubusercontent.com/32821105/199796168-02b56618-858e-4c5d-9c0c-9fd17f323cb4.png)
+![image](https://user-images.githubusercontent.com/32821105/199797235-d4e1e1d8-6cab-4ea0-a8cf-51c6e75ebc42.png)
+
+
 
 Eklediğimiz classa aşağıdaki örnekteki gibi kontroller yazıyoruz :
 
