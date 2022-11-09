@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "Yiebhnvd0wQeDhv5Cg2ujqAYYaysJx2uwzsQxeIrZb8=",
+  "Source": "WebAPI",
+  "BasePath": "_content/WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebAPI\\wwwroot",
+      "Source": "WebAPI",
+      "ContentRoot": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\ReCapProjectStepByStep\\AfterDay13_ReCapProject\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\ReCapProjectStepByStep\\AfterDay13_ReCapProject\\WebAPI\\wwwroot\\DefaultImage.jpg",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\ReCapProjectStepByStep\\AfterDay13_ReCapProject\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "DefaultImage.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\DefaultImage.jpg"
+    },
+    {
+      "Identity": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\ReCapProjectStepByStep\\AfterDay13_ReCapProject\\WebAPI\\wwwroot\\Uploads\\Images\\142bb238-fe5f-40d9-9ff0-4a253c781246.JPG",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\ReCapProjectStepByStep\\AfterDay13_ReCapProject\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "Uploads/Images/142bb238-fe5f-40d9-9ff0-4a253c781246.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\Images\\142bb238-fe5f-40d9-9ff0-4a253c781246.JPG"
+    },
+    {
+      "Identity": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\ReCapProjectStepByStep\\AfterDay13_ReCapProject\\WebAPI\\wwwroot\\Uploads\\Images\\DefaultImage.jpg",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\ReCapProjectStepByStep\\AfterDay13_ReCapProject\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "Uploads/Images/DefaultImage.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\Images\\DefaultImage.jpg"
+    }
+  ]
+}
