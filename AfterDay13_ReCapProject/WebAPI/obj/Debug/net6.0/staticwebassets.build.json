@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Yiebhnvd0wQeDhv5Cg2ujqAYYaysJx2uwzsQxeIrZb8=",
+  "Hash": "OV4yX/00dSysIZyrnSz5wS0mU/v/AgIZOZ8EMc6LAos=",
   "Source": "WebAPI",
   "BasePath": "_content/WebAPI",
   "Mode": "Default",
@@ -34,12 +34,12 @@
       "OriginalItemSpec": "wwwroot\\DefaultImage.jpg"
     },
     {
-      "Identity": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\ReCapProjectStepByStep\\AfterDay13_ReCapProject\\WebAPI\\wwwroot\\Uploads\\Images\\142bb238-fe5f-40d9-9ff0-4a253c781246.JPG",
+      "Identity": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\ReCapProjectStepByStep\\AfterDay13_ReCapProject\\WebAPI\\wwwroot\\Uploads\\Images\\220263ed-0cd7-4ee8-bdc2-4e2ab836964a.jpg",
       "SourceId": "WebAPI",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\ReCapProjectStepByStep\\AfterDay13_ReCapProject\\WebAPI\\wwwroot\\",
       "BasePath": "_content/WebAPI",
-      "RelativePath": "Uploads/Images/142bb238-fe5f-40d9-9ff0-4a253c781246.JPG",
+      "RelativePath": "Uploads/Images/220263ed-0cd7-4ee8-bdc2-4e2ab836964a.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -48,7 +48,75 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Uploads\\Images\\142bb238-fe5f-40d9-9ff0-4a253c781246.JPG"
+      "OriginalItemSpec": "wwwroot\\Uploads\\Images\\220263ed-0cd7-4ee8-bdc2-4e2ab836964a.jpg"
+    },
+    {
+      "Identity": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\ReCapProjectStepByStep\\AfterDay13_ReCapProject\\WebAPI\\wwwroot\\Uploads\\Images\\5c23f6f7-a4fb-4db3-acdb-3f47ce068807.jpg",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\ReCapProjectStepByStep\\AfterDay13_ReCapProject\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "Uploads/Images/5c23f6f7-a4fb-4db3-acdb-3f47ce068807.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\Images\\5c23f6f7-a4fb-4db3-acdb-3f47ce068807.jpg"
+    },
+    {
+      "Identity": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\ReCapProjectStepByStep\\AfterDay13_ReCapProject\\WebAPI\\wwwroot\\Uploads\\Images\\5fbc8480-6b20-4e59-bee7-d112d5e74888.jpg",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\ReCapProjectStepByStep\\AfterDay13_ReCapProject\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "Uploads/Images/5fbc8480-6b20-4e59-bee7-d112d5e74888.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\Images\\5fbc8480-6b20-4e59-bee7-d112d5e74888.jpg"
+    },
+    {
+      "Identity": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\ReCapProjectStepByStep\\AfterDay13_ReCapProject\\WebAPI\\wwwroot\\Uploads\\Images\\6fa85a5c-82b7-48d3-a8ab-17628740c6a0.jpg",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\ReCapProjectStepByStep\\AfterDay13_ReCapProject\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "Uploads/Images/6fa85a5c-82b7-48d3-a8ab-17628740c6a0.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\Images\\6fa85a5c-82b7-48d3-a8ab-17628740c6a0.jpg"
+    },
+    {
+      "Identity": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\ReCapProjectStepByStep\\AfterDay13_ReCapProject\\WebAPI\\wwwroot\\Uploads\\Images\\a8c1f082-d08a-4033-8b3e-ee6bfe52cf58.jpg",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\ReCapProjectStepByStep\\AfterDay13_ReCapProject\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "Uploads/Images/a8c1f082-d08a-4033-8b3e-ee6bfe52cf58.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\Images\\a8c1f082-d08a-4033-8b3e-ee6bfe52cf58.jpg"
     },
     {
       "Identity": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\ReCapProjectStepByStep\\AfterDay13_ReCapProject\\WebAPI\\wwwroot\\Uploads\\Images\\DefaultImage.jpg",
@@ -66,6 +134,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Uploads\\Images\\DefaultImage.jpg"
+    },
+    {
+      "Identity": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\ReCapProjectStepByStep\\AfterDay13_ReCapProject\\WebAPI\\wwwroot\\Uploads\\Images\\e5613584-28f5-4260-a6b7-b065362800a6.jpg",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\ReCapProjectStepByStep\\AfterDay13_ReCapProject\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "Uploads/Images/e5613584-28f5-4260-a6b7-b065362800a6.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\Images\\e5613584-28f5-4260-a6b7-b065362800a6.jpg"
     }
   ]
 }
