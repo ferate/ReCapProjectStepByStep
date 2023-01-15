@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\ReCapProjectStepByStep\\AfterDay15_ReCapProject\\DataAccess\\DataAccess.csproj": {}
+    "C:\\WorkSpace\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\AfterDay15_ReCapProject\\DataAccess\\DataAccess.csproj": {}
   },
   "projects": {
-    "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\ReCapProjectStepByStep\\AfterDay15_ReCapProject\\Core\\Core.csproj": {
+    "C:\\WorkSpace\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\AfterDay15_ReCapProject\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\ReCapProjectStepByStep\\AfterDay15_ReCapProject\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\WorkSpace\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\AfterDay15_ReCapProject\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\ReCapProjectStepByStep\\AfterDay15_ReCapProject\\Core\\Core.csproj",
-        "packagesPath": "C:\\Users\\Optimist\\.nuget\\packages\\",
-        "outputPath": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\ReCapProjectStepByStep\\AfterDay15_ReCapProject\\Core\\obj\\",
+        "projectPath": "C:\\WorkSpace\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\AfterDay15_ReCapProject\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\FE\\.nuget\\packages\\",
+        "outputPath": "C:\\WorkSpace\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\AfterDay15_ReCapProject\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Optimist\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\FE\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -83,7 +83,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -92,21 +93,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\ReCapProjectStepByStep\\AfterDay15_ReCapProject\\DataAccess\\DataAccess.csproj": {
+    "C:\\WorkSpace\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\AfterDay15_ReCapProject\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\ReCapProjectStepByStep\\AfterDay15_ReCapProject\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\WorkSpace\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\AfterDay15_ReCapProject\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\ReCapProjectStepByStep\\AfterDay15_ReCapProject\\DataAccess\\DataAccess.csproj",
-        "packagesPath": "C:\\Users\\Optimist\\.nuget\\packages\\",
-        "outputPath": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\ReCapProjectStepByStep\\AfterDay15_ReCapProject\\DataAccess\\obj\\",
+        "projectPath": "C:\\WorkSpace\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\AfterDay15_ReCapProject\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\FE\\.nuget\\packages\\",
+        "outputPath": "C:\\WorkSpace\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\AfterDay15_ReCapProject\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Optimist\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\FE\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -120,11 +121,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\ReCapProjectStepByStep\\AfterDay15_ReCapProject\\Core\\Core.csproj": {
-                "projectPath": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\ReCapProjectStepByStep\\AfterDay15_ReCapProject\\Core\\Core.csproj"
+              "C:\\WorkSpace\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\AfterDay15_ReCapProject\\Core\\Core.csproj": {
+                "projectPath": "C:\\WorkSpace\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\AfterDay15_ReCapProject\\Core\\Core.csproj"
               },
-              "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\ReCapProjectStepByStep\\AfterDay15_ReCapProject\\Entities\\Entities.csproj": {
-                "projectPath": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\ReCapProjectStepByStep\\AfterDay15_ReCapProject\\Entities\\Entities.csproj"
+              "C:\\WorkSpace\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\AfterDay15_ReCapProject\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\WorkSpace\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\AfterDay15_ReCapProject\\Entities\\Entities.csproj"
               }
             }
           }
@@ -150,7 +151,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -159,21 +161,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\ReCapProjectStepByStep\\AfterDay15_ReCapProject\\Entities\\Entities.csproj": {
+    "C:\\WorkSpace\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\AfterDay15_ReCapProject\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\ReCapProjectStepByStep\\AfterDay15_ReCapProject\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\WorkSpace\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\AfterDay15_ReCapProject\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\ReCapProjectStepByStep\\AfterDay15_ReCapProject\\Entities\\Entities.csproj",
-        "packagesPath": "C:\\Users\\Optimist\\.nuget\\packages\\",
-        "outputPath": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\ReCapProjectStepByStep\\AfterDay15_ReCapProject\\Entities\\obj\\",
+        "projectPath": "C:\\WorkSpace\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\AfterDay15_ReCapProject\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\FE\\.nuget\\packages\\",
+        "outputPath": "C:\\WorkSpace\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\AfterDay15_ReCapProject\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Optimist\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\FE\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -187,8 +189,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\ReCapProjectStepByStep\\AfterDay15_ReCapProject\\Core\\Core.csproj": {
-                "projectPath": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\ReCapProjectStepByStep\\AfterDay15_ReCapProject\\Core\\Core.csproj"
+              "C:\\WorkSpace\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\AfterDay15_ReCapProject\\Core\\Core.csproj": {
+                "projectPath": "C:\\WorkSpace\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\AfterDay15_ReCapProject\\Core\\Core.csproj"
               }
             }
           }
@@ -208,7 +210,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -217,7 +220,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
