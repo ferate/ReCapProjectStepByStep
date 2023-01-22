@@ -1,0 +1,93 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\WorkSpace\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\AfterDay18_ReCapProject\\Backend\\WebAPI\\wwwroot\\DefaultImage.jpg",
+      "PackagePath": "staticwebassets\\DefaultImage.jpg"
+    },
+    {
+      "Id": "C:\\WorkSpace\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\AfterDay18_ReCapProject\\Backend\\WebAPI\\wwwroot\\Uploads\\Images\\2.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\Images\\2.jpg"
+    },
+    {
+      "Id": "C:\\WorkSpace\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\AfterDay18_ReCapProject\\Backend\\WebAPI\\wwwroot\\Uploads\\Images\\220263ed-0cd7-4ee8-bdc2-4e2ab836964a.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\Images\\220263ed-0cd7-4ee8-bdc2-4e2ab836964a.jpg"
+    },
+    {
+      "Id": "C:\\WorkSpace\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\AfterDay18_ReCapProject\\Backend\\WebAPI\\wwwroot\\Uploads\\Images\\2348b2e1-7bfd-467c-8635-0380f5cd922b.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\Images\\2348b2e1-7bfd-467c-8635-0380f5cd922b.jpg"
+    },
+    {
+      "Id": "C:\\WorkSpace\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\AfterDay18_ReCapProject\\Backend\\WebAPI\\wwwroot\\Uploads\\Images\\3.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\Images\\3.jpg"
+    },
+    {
+      "Id": "C:\\WorkSpace\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\AfterDay18_ReCapProject\\Backend\\WebAPI\\wwwroot\\Uploads\\Images\\385cce86-c7c8-4bfa-9d94-9ff62d1d3515.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\Images\\385cce86-c7c8-4bfa-9d94-9ff62d1d3515.jpg"
+    },
+    {
+      "Id": "C:\\WorkSpace\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\AfterDay18_ReCapProject\\Backend\\WebAPI\\wwwroot\\Uploads\\Images\\4.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\Images\\4.jpg"
+    },
+    {
+      "Id": "C:\\WorkSpace\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\AfterDay18_ReCapProject\\Backend\\WebAPI\\wwwroot\\Uploads\\Images\\4bfaa578-eed7-4524-b277-31c9f88c4db3.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\Images\\4bfaa578-eed7-4524-b277-31c9f88c4db3.jpg"
+    },
+    {
+      "Id": "C:\\WorkSpace\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\AfterDay18_ReCapProject\\Backend\\WebAPI\\wwwroot\\Uploads\\Images\\51f1972b-3ef9-4d22-b313-3ca521a40c41.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\Images\\51f1972b-3ef9-4d22-b313-3ca521a40c41.jpg"
+    },
+    {
+      "Id": "C:\\WorkSpace\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\AfterDay18_ReCapProject\\Backend\\WebAPI\\wwwroot\\Uploads\\Images\\5c23f6f7-a4fb-4db3-acdb-3f47ce068807.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\Images\\5c23f6f7-a4fb-4db3-acdb-3f47ce068807.jpg"
+    },
+    {
+      "Id": "C:\\WorkSpace\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\AfterDay18_ReCapProject\\Backend\\WebAPI\\wwwroot\\Uploads\\Images\\5fbc8480-6b20-4e59-bee7-d112d5e74888.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\Images\\5fbc8480-6b20-4e59-bee7-d112d5e74888.jpg"
+    },
+    {
+      "Id": "C:\\WorkSpace\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\AfterDay18_ReCapProject\\Backend\\WebAPI\\wwwroot\\Uploads\\Images\\6fa85a5c-82b7-48d3-a8ab-17628740c6a0.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\Images\\6fa85a5c-82b7-48d3-a8ab-17628740c6a0.jpg"
+    },
+    {
+      "Id": "C:\\WorkSpace\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\AfterDay18_ReCapProject\\Backend\\WebAPI\\wwwroot\\Uploads\\Images\\DefaultImage.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\Images\\DefaultImage.jpg"
+    },
+    {
+      "Id": "C:\\WorkSpace\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\AfterDay18_ReCapProject\\Backend\\WebAPI\\wwwroot\\Uploads\\Images\\a8c1f082-d08a-4033-8b3e-ee6bfe52cf58.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\Images\\a8c1f082-d08a-4033-8b3e-ee6bfe52cf58.jpg"
+    },
+    {
+      "Id": "C:\\WorkSpace\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\AfterDay18_ReCapProject\\Backend\\WebAPI\\wwwroot\\Uploads\\Images\\d2c8c133-995d-49ae-817b-b40240dbd4c8.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\Images\\d2c8c133-995d-49ae-817b-b40240dbd4c8.jpg"
+    },
+    {
+      "Id": "C:\\WorkSpace\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\AfterDay18_ReCapProject\\Backend\\WebAPI\\wwwroot\\Uploads\\Images\\d696d308-53e0-44c7-8d8a-b3c19d25fea9.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\Images\\d696d308-53e0-44c7-8d8a-b3c19d25fea9.jpg"
+    },
+    {
+      "Id": "C:\\WorkSpace\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\AfterDay18_ReCapProject\\Backend\\WebAPI\\wwwroot\\Uploads\\Images\\e5613584-28f5-4260-a6b7-b065362800a6.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\Images\\e5613584-28f5-4260-a6b7-b065362800a6.jpg"
+    },
+    {
+      "Id": "C:\\WorkSpace\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\ReCapProjectStepByStep\\AfterDay18_ReCapProject\\Backend\\WebAPI\\wwwroot\\Uploads\\Images\\f0012c93-45f4-4503-b446-cf0d3b8b13a5.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\Images\\f0012c93-45f4-4503-b446-cf0d3b8b13a5.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.WebAPI.props",
+      "PackagePath": "build\\WebAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WebAPI.props",
+      "PackagePath": "buildMultiTargeting\\WebAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.WebAPI.props",
+      "PackagePath": "buildTransitive\\WebAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

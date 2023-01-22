@@ -1,0 +1,22 @@
+<table class="table table-primary table-striped">
+    <thead>
+        <tr>
+            <th>Car Id</th>
+            <th>Car Name</th>
+            <th>Brand Name</th>
+            <th>Color Name</th>
+            <th>Model Year</th>
+            <th>Daily Price</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr (click)="setCurrentCar(car)" routerLink="/carDetail/{{car.carId}}" *ngFor="let car of cars">   
+            <td >{{car.carId}}</td>   
+            <td >{{car.carName}}</td>   
+            <td >{{car.brandName}}</td>   
+            <td >{{car.colorName}}</td>  
+            <td >{{car.modelYear}}</td>  
+            <td >{{car.dailyPrice}}</td>               
+        </tr>       
+    </tbody>   
+</table>

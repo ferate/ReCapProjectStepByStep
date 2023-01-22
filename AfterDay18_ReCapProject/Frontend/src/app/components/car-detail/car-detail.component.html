@@ -1,0 +1,21 @@
+<div class="card" style="margin: 0 auto; width: 36rem; height: 18rem;">
+  
+  <carousel>
+    <slide *ngFor="let item of carImages">
+      <img [src]="getImagePath(item)" class="d-block w-100" alt="" style="display: block; ">
+    </slide>
+  </carousel>
+
+  <div class="card-body">
+      <h5 class="card-title">{{car.carName}}</h5>                 
+  </div>
+  <div>
+    <ul class="list-group list-group-flush">      
+      <li class="list-group-item">Brand : {{car.brandName}}</li>
+      <li class="list-group-item">Color : {{car.colorName}}</li>
+      <li class="list-group-item">Model Year : {{car.modelYear}}</li>
+      <li class="list-group-item">Daily Price : {{car.dailyPrice | currency:"TL "}}</li>
+    </ul>
+  </div>
+  
+</div>
