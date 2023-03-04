@@ -1,0 +1,112 @@
+<div class="card" style="margin: 0 auto; width: 36rem; height: 18rem;">
+  
+  <carousel>
+    <slide *ngFor="let item of carImages">
+      <img [src]="getImagePath(item)" class="d-block w-100" alt="" style="display: block; ">
+    </slide>
+  </carousel>
+ 
+  <div>
+    <ul class="list-group">      
+      <li class="list-group-item"><h5 class="card-title">{{car.carName}}</h5></li>
+      <li class="list-group-item">Brand : {{car.brandName}}</li>
+      <li class="list-group-item">Color : {{car.colorName}}</li>
+      <li class="list-group-item">Model Year : {{car.modelYear}}</li>
+      <li class="list-group-item">Daily Price : {{car.dailyPrice | currency:"TL "}}</li>     
+          
+      <ul class="list-group" >
+        <li class="list-group-item" [style]="rentDateDisplayMode()" >
+          <div class="mb-3">
+            <label class="form-label">Rent Date   :</label>
+            <input type="date" [(ngModel)]="carRentDate" class="form-control" id="rentDate" style="width: 30%;" >
+          </div>
+          <div class="mb-3">
+            <label class="form-label">Return Date :</label>
+            <input type="date" [(ngModel)]="carReturnDate" class="form-control" id="returnDate"  style="width: 30%;">            
+          </div>            
+          <p style="text-align: center">{{carAvailableForRentMessage}}</p>     
+        </li>         
+      </ul>
+           
+      <li (click)="changeRentDateDisplayMode()" class="list-group-item text-center"> <button type="button" class="btn btn-primary btn-block">Chose Date</button> </li>
+      <li (click)="checkAvailableOfCar(car.carId,carRentDate,carReturnDate)"  class="list-group-item text-center"> 
+        <button type="button" class="btn btn-primary btn-block">
+          Rent Car
+        </button> 
+      </li>
+         
+      <!-- Button trigger modal -->
+      <button type="button"  onclick="true" id="payment" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal" hidden="hidden">
+        Launch demo modal
+        
+      </button>
+
+      <!-- Modal -->
+      <!-- Modal -->
+    <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">        
+          </div>
+          <div class="modal-body">
+            
+            
+    <div class="container p-0">
+      <img src="https://i.imgur.com/28akQFX.jpg" width="400px" height="130px" class="rounded mx-auto d-block">
+    
+      <div class="card px-4">
+          <p class="h8 py-3">Payment Details</p>
+          <div class="row gx-3">
+              <div class="col-12">
+                  <div class="d-flex flex-column">
+                      <p class="text mb-1">Person Name</p>
+                      <input class="form-control mb-3" type="text" placeholder="Name" placeholder="Name Surname">
+                  </div>
+              </div>
+              <div class="col-12">
+                  <div class="d-flex flex-column">
+                      <p class="text mb-1">Card Number</p>
+                      <input class="form-control mb-3" type="text" placeholder="1234 5678 435678">
+                  </div>
+              </div>
+              <div class="col-6">
+                  <div class="d-flex flex-column">
+                      <p class="text mb-1">Expiry</p>
+                      <input class="form-control mb-3" type="text" placeholder="MM/YYYY">
+                  </div>
+              </div>
+              <div class="col-6">
+                  <div class="d-flex flex-column">
+                      <p class="text mb-1">CVV/CVC</p>
+                      <input class="form-control mb-3 pt-2 " type="password" placeholder="***">
+                  </div>
+              </div>          
+          </div>
+      </div>
+    </div>
+            
+    
+          </div>
+          <div class="modal-footer">
+            <button type="button" id="closeButton" class="btn btn-secondary" data-dismiss="modal">Close</button>
+            <button (click)="paymentForRentCar()" type="button" class="btn btn-primary" data-dismiss="paymentDataDismis">Pay $243</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+    </ul>
+  </div>
+  
+</div>
+

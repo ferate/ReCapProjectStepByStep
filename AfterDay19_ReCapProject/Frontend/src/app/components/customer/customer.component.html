@@ -1,0 +1,21 @@
+<table class="table table-dark table-striped">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>First Name</th>
+            <th>Last Name</th>
+            <th>User Email</th>
+            <th>Company Name</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let customer of customers">   
+            <td >{{customer.id}}</td>   
+            <td >{{customer.userFirstName}}</td>   
+            <td >{{customer.userLastName}}</td>   
+            <td >{{customer.userEmail}}</td>   
+            <td >{{customer.companyName}}</td>   
+        </tr>       
+    </tbody>   
+</table>
+

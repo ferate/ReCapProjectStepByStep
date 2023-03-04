@@ -1,0 +1,18 @@
+<table class="table table-secondary table-striped">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Car Id</th>
+            <th>Image Path</th>
+            <th>Date</th>            
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let carImage of carImages">   
+            <td >{{carImage.id}}</td>   
+            <td >{{carImage.carId}}</td>   
+            <td >{{carImage.imagePath}}</td>   
+            <td >{{carImage.date}}</td>  
+        </tr>       
+    </tbody>   
+</table>

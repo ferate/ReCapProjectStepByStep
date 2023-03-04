@@ -1,0 +1,87 @@
+<div class="row">
+    
+    <div class="col">
+        <div class="mb-3">
+            <select  [(ngModel)]="filterBrand" class="form-select" aria-label="Default select example">
+                <option value="0" selected [selected]="">Please Select Brand</option>
+                <option value="0">All Brands</option>
+                <option *ngFor="let brand of brands" [value]="brand.brandId">{{brand.brandName}}</option>               
+            </select>            
+        </div>
+        
+    </div>
+
+    <div class="col">
+        <div class="mb-3">
+            <select  [(ngModel)]="filterColor" class="form-select" aria-label="Default select example">
+                <option value="0" selected [selected]="">Please Select Color</option>
+                <option value="0">All Colors</option>
+                <option *ngFor="let color of colors" [value]="color.colorId">{{color.colorName}}</option>               
+            </select>            
+        </div>        
+    </div>
+
+    <div class="col">
+        <div class="mb-3">
+            <button  (click)="getCarsByBrandAndColorId(filterBrand,filterColor)" type="button" class="btn btn-primary" style="width: 100%;">Filter</button>       
+        </div>        
+    </div>
+    
+
+</div>
+
+
+
+<div class="row">
+    <div class="col">
+        <div class="mb-3">
+            <label for="filterTextCarName" class="form-label">Search Car Name</label>
+            <input type="text" [(ngModel)]="filterTextCarName" class="form-control" id="filterTextCarName" placeholder="Search Car by Car Name">
+        </div>
+        <div *ngIf="filterTextCarName.length>2" class="alert alert-success">
+        {{filterTextCarName}} aradiniz
+        </div>
+    </div>
+    <div class="col">
+        <div class="mb-3">
+            <label for="filterTextBrandName" class="form-label">Search Brand Name</label>
+            <input type="text" [(ngModel)]="filterTextBrandName" class="form-control" id="filterTextBrandName" placeholder="Search Car by Brand Name">
+        </div>
+        <div *ngIf="filterTextBrandName.length>2" class="alert alert-success">
+        {{filterTextBrandName}} aradiniz
+        </div>
+    </div>
+    <div class="col">
+        <div class="mb-3">
+            <label for="filterText" class="form-label">Search Color Name</label>
+            <input type="text" [(ngModel)]="filterTextColorName" class="form-control" id="filterText" placeholder="Search Car by Color Name">
+        </div>
+        <div *ngIf="filterTextColorName.length>2" class="alert alert-success">
+        {{filterTextColorName}} aradiniz
+        </div>
+    </div>
+  </div>
+
+<table *ngIf="dataLoaded==true" class="table table-primary table-striped">
+    <thead>
+        <tr>
+            <th>Car Id</th>
+            <th>Car Name</th>
+            <th>Brand Name</th>
+            <th>Color Name</th>
+            <th>Model Year</th>
+            <th>Daily Price</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr (click)="setCurrentCar(car)" routerLink="/carDetail/{{car.carId}}" 
+        *ngFor="let car of cars | filterCarByCarName:filterTextCarName | filterCarByBrandName:filterTextBrandName | filterCarByColorName:filterTextColorName ">   
+            <td >{{car.carId}}</td>   
+            <td >{{car.carName}}</td>   
+            <td >{{car.brandName}}</td>   
+            <td >{{car.colorName}}</td>  
+            <td >{{car.modelYear}}</td>  
+            <td >{{car.dailyPrice}}</td>               
+        </tr>       
+    </tbody>   
+</table>
